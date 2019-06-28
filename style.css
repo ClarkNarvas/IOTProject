@@ -1,12 +1,17 @@
 h1.title {
 	color: white;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 400;
 	font-size: 150%;
 	padding-left: 2%;
-	text-align: center;
 }
 
+#clock {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700
+	font-size: 350%;
+	color: white;
+    align-content: center;
+}
 
 h1 {
 	font-family: 'Roboto', sans-serif;

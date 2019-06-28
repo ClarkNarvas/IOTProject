@@ -1,9 +1,9 @@
 h1.title {
 	color: white;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 400
-	font-size: 80%;
-	padding-left: 5%;
+	font-weight: 400;
+	font-size: 150%;
+	padding-left: 2%;
 }
 
 
@@ -16,17 +16,18 @@ p {
 }
 
 .header {
-	background-color: #E53935;
+	background-color: #0A0A2A;
 	width: 100%;
 	position:fixed;
-	height: 70px;
+	height: 60px;
 	top: 0px;
-	box-shadow: 0px 5px 10px grey;
+	border-bottom: 1px solid white;
 }
 
 body {
 	margin: 0;
 	padding: 0;
+	background-color: #0A0A2A;
 }
 
 #wrapper {
@@ -34,3 +35,4 @@ body {
 	padding-right: 2%;
 	padding-top: 60px;
 }
+

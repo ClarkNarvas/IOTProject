@@ -35,6 +35,21 @@ p {
 	box-shadow: 0px 0px 10px black;
 }
 
+.squarecontainer {
+	background-color: #212121;
+	width: 10%;
+	height: 20%;
+	top: 0px;
+	box-shadow: 0px 0px 10px black;
+	margin: 2%;
+}
+
+.squarecontainerthings {
+	padding: 5%;
+}
+
+
+
 body {
 	margin: 0;
 	padding: 0;

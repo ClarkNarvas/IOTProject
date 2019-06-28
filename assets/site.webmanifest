@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Bikelog",
+    "short_name": "Bikelog",
     "icons": [
         {
             "src": "/assets/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#e53935",
-    "background_color": "#e53935",
+    "theme_color": "#121212",
+    "background_color": "#121212",
     "display": "standalone"
 }
